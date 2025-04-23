@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node 6_json.js",
-    "dev": "nodemon 10_get.mjs"
+    "dev": "nodemon 13_restful.js"
   },
   "keywords": [],
   "author": "",
